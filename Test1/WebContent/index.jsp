@@ -5,9 +5,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>this is a jsp test</title>
+<title>title</title>
 </head>
 <body>
-cxvxcvx
+this is a jsp file
 </body>
 </html>
