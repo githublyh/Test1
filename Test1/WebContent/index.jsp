@@ -8,10 +8,6 @@
 <title>title</title>
 </head>
 <body>
-<<<<<<< HEAD
-RRRRRFFF
-=======
-RRRRR
->>>>>>> 20a74a3db2ba95da64f2f13cee56a2dbf6bfe07c
+this is a test!
 </body>
 </html>
